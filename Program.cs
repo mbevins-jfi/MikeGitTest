@@ -12,6 +12,7 @@ namespace MikeGitTest
         {
             Console.Write("Hello World");
             Console.Write("Hello World 2");
+            Console.Write("Hello World 3");
         }
     }
 }
